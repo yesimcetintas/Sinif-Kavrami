@@ -1,0 +1,15 @@
+/Users/srknctnts/Desktop/Patika .net core/C#/sınıf-kavramı/bin/Debug/net6.0/sınıf-kavramı
+/Users/srknctnts/Desktop/Patika .net core/C#/sınıf-kavramı/bin/Debug/net6.0/sınıf-kavramı.deps.json
+/Users/srknctnts/Desktop/Patika .net core/C#/sınıf-kavramı/bin/Debug/net6.0/sınıf-kavramı.runtimeconfig.json
+/Users/srknctnts/Desktop/Patika .net core/C#/sınıf-kavramı/bin/Debug/net6.0/sınıf-kavramı.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/sınıf-kavramı/bin/Debug/net6.0/sınıf-kavramı.pdb
+/Users/srknctnts/Desktop/Patika .net core/C#/sınıf-kavramı/obj/Debug/net6.0/sınıf-kavramı.csproj.AssemblyReference.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/sınıf-kavramı/obj/Debug/net6.0/sınıf-kavramı.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srknctnts/Desktop/Patika .net core/C#/sınıf-kavramı/obj/Debug/net6.0/sınıf-kavramı.AssemblyInfoInputs.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/sınıf-kavramı/obj/Debug/net6.0/sınıf-kavramı.AssemblyInfo.cs
+/Users/srknctnts/Desktop/Patika .net core/C#/sınıf-kavramı/obj/Debug/net6.0/sınıf-kavramı.csproj.CoreCompileInputs.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/sınıf-kavramı/obj/Debug/net6.0/sınıf-kavramı.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/sınıf-kavramı/obj/Debug/net6.0/refint/sınıf-kavramı.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/sınıf-kavramı/obj/Debug/net6.0/sınıf-kavramı.pdb
+/Users/srknctnts/Desktop/Patika .net core/C#/sınıf-kavramı/obj/Debug/net6.0/sınıf-kavramı.genruntimeconfig.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/sınıf-kavramı/obj/Debug/net6.0/ref/sınıf-kavramı.dll
